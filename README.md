@@ -1,14 +1,14 @@
 # Addressing Delays and Accessibility to Enhance MTA Subway User Experience
 
-## Overview
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Findings](#key-findings)
+- [Common Packages and Libraries Used](#common-packages-and-libraries-used)
+
+## Project Overview
 This project was developed by myself and three colleagues to analyze the delays and accessibility of the NYC Subway system. We adopted a two-pronged approach, focusing on these key factors as they significantly impact user experience. The project consists of two separate code files—one dedicated to delays and the other to accessibility. Our key findings are summarized and visualized in the accompanying presentation. 
 
 The data used for this project can be accessed on [Kaggle](https://www.kaggle.com/datasets/jkanishkhajai/mta-nyc-dataset).
-
-## Table of Contents
-- [Project Overview](#overview)
-- [Key Findings](#key-findings)
-- [Common Packages and Libraries Used](#common-packages-and-libraries-used)
 
 ## Key Findings
 Our analysis revealed several critical insights into subway delays and accessibility in NYC. Key takeaways include:
