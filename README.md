@@ -12,8 +12,8 @@ The data used for this project can be accessed on [Kaggle](https://www.kaggle.co
 
 ## Key Findings
 Our analysis revealed several critical insights into subway delays and accessibility in NYC. Key takeaways include:
-- **Delays:** Patterns of congestion, peak-hour disruptions, and frequent service interruptions in certain lines.
-- **Accessibility:** Challenges faced by riders with mobility impairments due to station design and elevator availability.
+- **Delays:** Patterns of congestion, peak-hour disruptions, and frequent service interruptions in certain lines. The delays differ by line and by train some being worse off than others.
+- **Accessibility:** MTA should increase the number of ADA complient stations. It is extremely hard for individuals with ambulatory difficulties to get around without the proper accommodations. Out of the four major boroughs, no borough has even 50% complience among its stations. Accessibility differs amongst boroughs potentially indicating poorer accessibility in less affluent areas. Areas with highest density of individuals with ambulatory difficulty are not properly served by MTA.
 - **Correlation:** A relationship between high-delay stations and lower accessibility ratings, highlighting systemic issues in the subway network.
 
 ## Common Packages and Libraries Used
